@@ -1,6 +1,6 @@
-Olá sou Edevaldo   
+Olá sou Edevaldo.   
 e-mail: prof.essmatkhancademy@gmail.com
 
-Farei um programa básico!
+FAREI UM PROGRAMA BÁSICO!
 
-EDEVALDOSS/EDEVALDOSS 
+EDEVALDOSS (ESS)
